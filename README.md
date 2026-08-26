@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selen Yakın</h1>
+<h1 align="center">Hi , I'm Selen Yakın</h1>
 
 <h3 align="center">
 Computer Engineering Student
@@ -12,17 +12,17 @@ Computer Engineering Student
 
 ## 👩‍💻 About Me
 
-I'm a Computer Engineering student interested in **software development, Python, and data science**.
+Hi! I'm Selen, a Computer Engineering student from Türkiye.
 
-I enjoy building practical applications, working on real-world problems, and learning through hands-on projects. My interests range from software development and mobile applications to data analysis and machine learning.
+I enjoy learning by building things and trying out different areas of software development. I've worked with web and mobile applications, databases, and Java, and lately I've been spending more time with **Python, data, and machine learning**.
 
-I believe in continuously improving my skills by experimenting, building, and learning from each project.
+I'm still exploring, learning, and figuring out which things I enjoy the most. I like taking what I learn and turning it into something I can actually build and experiment with. 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+###  Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="48" />
@@ -33,29 +33,29 @@ I believe in continuously improving my skills by experimenting, building, and le
   <img src="https://skillicons.dev/icons?i=css" height="48" />
 </p>
 
-### Data Science
+###  Data & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="48" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="48" />
 </p>
 
-**Libraries & Tools:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+**Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-### Mobile Development
+###  Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="48" />
   <img src="https://skillicons.dev/icons?i=firebase" height="48" />
 </p>
 
-### Databases
+###  Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="48" />
 </p>
 
-### Tools & Technologies
+###  Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="48" />
@@ -64,6 +64,16 @@ I believe in continuously improving my skills by experimenting, building, and le
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" />
 </p>
+
+---
+
+## 💡 Interests
+
+- 🐍 Python & Software Development
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning
+- 🧠 AI Technologies
+- 📱 Mobile Application Development
 
 ---
 
@@ -80,3 +90,7 @@ I believe in continuously improving my skills by experimenting, building, and le
 </p>
 
 ---
+
+<p align="center">
+  <i>Learning by building, one project at a time. 🌷</i>
+</p>
