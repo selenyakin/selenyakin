@@ -12,7 +12,7 @@ Computer Engineering Student
 
 ## 👩‍💻 About Me
 
-Hi! I'm Selen, a Computer Engineering student from Türkiye.
+Hi! I'm Selen, a Computer Engineering student.
 
 I enjoy learning by building things and trying out different areas of software development. I've worked with web and mobile applications, databases, and Java, and lately I've been spending more time with **Python, data, and machine learning**.
 
