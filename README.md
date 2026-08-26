@@ -80,7 +80,3 @@ I believe in continuously improving my skills by experimenting, building, and le
 </p>
 
 ---
-
-<p align="center">
-  <i>Building, learning, and growing through every project. 🚀</i>
-</p>
