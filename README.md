@@ -12,15 +12,11 @@ Computer Engineering Student
 
 ## 👩‍💻 About Me
 
-I'm a Computer Engineering student with a strong interest in software development and continuous learning.
+I'm a Computer Engineering student interested in **software development, Python, and data science**.
 
-I enjoy developing practical applications, exploring modern technologies, and improving my programming skills through hands-on projects.
+I enjoy building practical applications, working on real-world problems, and learning through hands-on projects. My interests range from software development and mobile applications to data analysis and machine learning.
 
-Currently interested in:
-
-- 🐍 Python
-- 📊 Data Analytics
-- 📱 Mobile Development
+I believe in continuously improving my skills by experimenting, building, and learning from each project.
 
 ---
 
@@ -36,6 +32,15 @@ Currently interested in:
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
 </p>
+
+### Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="48" />
+</p>
+
+**Libraries & Tools:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 ### Mobile Development
 
@@ -57,7 +62,6 @@ Currently interested in:
   <img src="https://skillicons.dev/icons?i=github" height="48" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" />
 </p>
 
@@ -75,3 +79,8 @@ Currently interested in:
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>Building, learning, and growing through every project. 🚀</i>
+</p>
