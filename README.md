@@ -90,7 +90,3 @@ I'm still exploring, learning, and figuring out which things I enjoy the most. I
 </p>
 
 ---
-
-<p align="center">
-  <i>Learning by building, one project at a time. 🌷</i>
-</p>
